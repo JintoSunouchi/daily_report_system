@@ -154,3 +154,29 @@ pre {
 h3 {
     font-size: larger;
 }
+
+table#timecard_list th{
+    font-weight: bold;
+    padding: 10px 2%;
+}
+
+table#timecard_list .timecard_name{
+    width: 20%;
+    padding: 10px 2%;
+}
+
+table#timecard_list .timecard_date {
+    width: 20%;
+}
+
+table#timecard_list .timecard_attendance_at {
+    width: 19%;
+}
+
+table#timecard_list .timecard_retirement_at {
+    width: 18%;
+}
+
+table#timecard_list .timecard_action {
+    width: 13%;
+}
